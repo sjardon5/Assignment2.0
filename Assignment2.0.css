@@ -1,0 +1,43 @@
+
+
+img {
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    } 
+      /*header*/
+h1 {
+    color:steelblue;
+    font-style: italic;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 95%;
+    height: 95%;
+}
+    /* logo*/
+
+p {line-height:1.5    
+}
+ul {font-weight: bold;
+    color: maroon
+    }
+
+a:link {
+    color:steelblue;
+}
+a:visited {
+    color: steelblue;
+}
+a:hover {
+    color:maroon;
+}
+a:focus {
+    color:maroon;
+}
+footer {
+    text-align: center;
+    font-size: small;
+}
